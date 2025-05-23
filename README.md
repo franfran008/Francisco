@@ -21,7 +21,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## 📫 Contato
-[![Gmail Badge](https://img.shields.io/badge/-pandoca080508@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandoca080508@gmail.com)](mailtopandoca080508@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pandoca080508@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandoca080508@gmail.com)](mailto:pandoca080508@gmail.com)
 
 ![franfran008 GitHub stats](https://github-readme-stats.vercel.app/api?username=franfran008&show_icons=true&theme=dark) <br><br>
 
