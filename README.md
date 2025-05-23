@@ -2,7 +2,8 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 👋 Olá, eu sou Francisco
+# 👋 Olá, eu sou Francisco 
+![franfran008 GitHub stats](https://github-readme-stats.vercel.app/api?username=franfran008&show_icons=true&theme=dark) <br><br>
 
 ## 💼 Perfil Profissional
 
@@ -23,6 +24,15 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-pandoca080508@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandoca080508@gmail.com)](mailto:pandoca080508@gmail.com)
 
-![franfran008 GitHub stats](https://github-readme-stats.vercel.app/api?username=franfran008&show_icons=true&theme=dark) <br><br>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
