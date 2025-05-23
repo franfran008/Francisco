@@ -23,7 +23,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-pandoca080508@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandoca080508@gmail.com)](mailto:pandoca080508@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
