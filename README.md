@@ -21,14 +21,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## 📫 Contato
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedro.h.silva251@aluno.senai.br" alt="Gmail"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/batatinha2.00/?next=%2F)" alt="Instagram"/></a>
-  <a href="#" title="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=X&logoColor=white&link=(https://x.com/Narutofreefire_)" alt="Twitter"/></a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-pandoca080508@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandoca080508@gmail.com)](mailtopandoca080508@gmail.com)
 
 ![franfran008 GitHub stats](https://github-readme-stats.vercel.app/api?username=franfran008&show_icons=true&theme=dark) <br><br>
 
