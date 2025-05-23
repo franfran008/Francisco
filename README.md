@@ -24,8 +24,10 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedro.h.silva251@aluno.senai.br" alt="Gmail"/></a>
+  
 [![Twitter Follow](https://img.shields.io/twitter/follow/Narutofreefire_?style=social)]({(https://x.com/Narutofreefire_)}) <br><br>
 </p>
+
 ![franfran008 GitHub stats](https://github-readme-stats.vercel.app/api?username=franfran008&show_icons=true&theme=dark) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
