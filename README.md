@@ -30,7 +30,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/franfran008/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
