@@ -1,2 +1,2 @@
 # Francisco
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,py,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flutter&perline=3)](https://skillicons.dev)
