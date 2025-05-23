@@ -26,8 +26,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedro.h.silva251@aluno.senai.br" alt="Gmail"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/batatinha2.00/?next=%2F)" alt="Instagram"/></a>
-  
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Narutofreefire_?style=social)]({(https://x.com/Narutofreefire_)}) <br><br>
+  <a href="#" title="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-DF0174?style=flat-square&labelColor=DF0174&logo=Twitter&logoColor=white&link=(https://x.com/Narutofreefire_)" alt="Twitter"/></a>
 </p>
 
 ![franfran008 GitHub stats](https://github-readme-stats.vercel.app/api?username=franfran008&show_icons=true&theme=dark) <br><br>
